@@ -6,6 +6,22 @@ The platform analyzes a candidate's resume, understands their skills/projects, g
 
 ---
 
+## 🎥 Project Demo
+
+<div align="center">
+
+<a href="https://youtu.be/20nhq2W6zbk" target="_blank">
+    <img src="https://img.youtube.com/vi/20nhq2W6zbk/maxresdefault.jpg" alt="InterviewIQ Demo" width="900"/>
+</a>
+
+<br>
+
+**▶️ Click the thumbnail above to watch the complete demo on YouTube**
+
+</div>
+
+---
+
 ## 🌟 Features
 
 ### 🔐 Authentication
